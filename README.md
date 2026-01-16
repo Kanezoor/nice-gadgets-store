@@ -3,7 +3,7 @@
 ![App Preview](./Preview.png)
 
 ## 🔗 Live Demo
-### [👉 Click here to view the deployed application](https://Kanezoor.github.io/nice-gadgets-store/)
+### [👉 Click here to view the deployed application](https://kanezoor.github.io/nice-gadgets-store/)
 
 ## 📝 Description
 A modern, responsive e-commerce web application designed for browsing and purchasing tech gadgets (Phones, Tablets, Accessories).
